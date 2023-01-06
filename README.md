@@ -11,7 +11,7 @@ To build an interactive dashboard that will visually showcase well-curated resul
 The data set that contains information about US Gun violence incidents
 incidents id, number killed, number injured, and among other things.
 
-The full details of data is available here: https://www.kaggle.com/datasets/jameslko/gun-violence-data
+The full details of data and data is available [here](https://www.kaggle.com/datasets/jameslko/gun-violence-data)
 
 # Tools
 For this project, python was used for analysis and some visualization and Tableau was used for visualization and presentation.
